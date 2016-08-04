@@ -1,0 +1,30 @@
+_repo: Wessex-Tales_3056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: 'Comprend : "The three strangers" ; "A tradition of eighteen hundred
+  and four" ; "The melancholy Hussar of the German legion" ; "The withered arm" ;
+  "Fellow-townsmen" ; "Interlopers at the Knap" ; "The distracted preacher".'
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: An imaginative woman -- The three strangers -- The withered arm --
+  Fellow-townsmen -- Interlopers at the Knap -- The distracted preacher.
+title: Wessex Tales
+url: http://www.gutenberg.org/ebooks/3056
