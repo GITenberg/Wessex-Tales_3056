@@ -1,5 +1,8 @@
 _repo: Wessex-Tales_3056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -11,6 +14,8 @@ creator:
 description: 'Comprend : "The three strangers" ; "A tradition of eighteen hundred
   and four" ; "The melancholy Hussar of the German legion" ; "The withered arm" ;
   "Fellow-townsmen" ; "Interlopers at the Knap" ; "The distracted preacher".'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3056#Wessex-Tales
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
 identifiers:
